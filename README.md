@@ -1,3 +1,5 @@
+NOTE: i cant access to your API url however my code for http request is true, so i have done with data that i entered.
+
 1- # Mcmakler
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0 and to run the app you should:
