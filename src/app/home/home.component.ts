@@ -14,6 +14,6 @@ export class HomeComponent implements OnInit {
 
   ngOnInit() {
   		this.ads = this.advertiseService.getAll();
-  } <!--to make ads hold all data of advertisments -->
+  } 
 
 }

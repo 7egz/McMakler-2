@@ -2,7 +2,7 @@ import { Injectable } from '@angular/core';
 
 	interface Adv {
 
-  } <!--should here define each type of each data -->
+  } 
 
 @Injectable()
 export class AdvertismentsService {
@@ -107,4 +107,4 @@ export class AdvertismentsService {
 
   }
 
-} <!--class tag ended -->
+} 
