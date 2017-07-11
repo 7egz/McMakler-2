@@ -1,4 +1,5 @@
-NOTE: i cant access to your API url however my code for http request is true, so i have done with data that i entered.
+NOTE: i cant access to your API url however my code for http request is true,
+      in this task i used to access on data that i created manually you can find this in the src/app/advertisments.service and in the         another version of the task i used the http service to access on the data in your API also ypu find the code in             src/app/advertisments.service
 
 1- # Mcmakler
 
